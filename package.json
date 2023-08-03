@@ -93,7 +93,7 @@
     "@types/showdown": "^1.9.3",
     "@types/tldjs": "^2.3.0",
     "@types/webpack-env": "^1.13.9",
-    "@types/yargs": "^17.0.2",
+    "@types/yargs": "^17.0.24",
     "@vitest/coverage-v8": "^0.32.2",
     "axios": "^0.21.1",
     "clean-webpack-plugin": "^0.1.19",
@@ -124,7 +124,7 @@
     "webpack-create-extension-manifest-plugin": "^1.1.0",
     "webpack-extension-reloader": "^1.1.4",
     "webpack-merge": "^4.2.2",
-    "yargs": "^17.1.1"
+    "yargs": "^17.7.2"
   },
   "manifest": {
     "manifest_version": 2,
